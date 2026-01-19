@@ -1,8 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=35&duration=1000&color=28E5FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Simeon+Golemdzhiev)](https://git.io/typing-svg)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=4500&pause=1000&color=16E622&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Python+Developer+%F0%9F%90%8D;In+the+process+of+learning+new+technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=100&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=false&width=442&height=120&lines=Hi+there%F0%9F%91%8B;I'm+Simeon+Golemdzhiev;%F0%9F%9A%80+Young+and+motivated+developer;%F0%9F%93%9A+Always+hungry+for+new+knowledge)](https://git.io/typing-svg)
 
 
 
@@ -24,6 +22,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 
 
